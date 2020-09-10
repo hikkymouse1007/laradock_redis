@@ -1,4 +1,8 @@
 # セットアップ
+使うコンテナのみ起動する
+```
+docker-compose up -d nginx mysql phpmyadmin redis workspace
+```
 
 
 ### 参考記事
